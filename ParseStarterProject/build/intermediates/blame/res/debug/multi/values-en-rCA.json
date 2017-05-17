@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/koldo/.android/build-cache/560cffefaad0d562abd73be3d71a591eb1cb0536/output/res/values-en-rCA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    }
+]

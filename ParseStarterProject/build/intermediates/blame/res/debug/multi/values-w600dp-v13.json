@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 54,
+                        "endOffset": 169
+                    }
+                }
+            }
+        ]
+    }
+]

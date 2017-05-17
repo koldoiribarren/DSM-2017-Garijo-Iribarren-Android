@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/426e12a47a840c6d28d47278e0131f793a10d6d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee8b597cf6616a747e43d6b9e201a784fdc652ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e6abb95e34bef571ca6ee1e2a3b284f79f3bb4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/59a5155267be0515327647f9cafe5ebdb9522d8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_535fd8e588a9a9e467e2638c7337414ea5cfc43d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/adabc73a8694cbf694069c7baee9de5ae7ff4716/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e13a9519bc47e5475697c65b203e9ce0ca6ac5a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_a50c78ee027ba38617a37e979dc6afe3d2b189f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a33718f463ff83c11522d88cc04db5dce45ac0ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/09ff173764238e94fbcb89460ba1cb2574c7dc48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d79e9114fd3d06aa8afc5656c9f1fd98d12f674f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6a92fe40dab01267f29acda75aeaf05592046c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df2b88ca488e76d7f99158c6c4290c983f99f83f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/978c918e59ad7aca9dbe49c29d120ba9e97e9669/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0de4b6844374e9513bcb7571a34677f31f2ffd83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_31a27414ba907ef5d82687ee7e73967d08a8e415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f1e350fe883c319c981443657a027c7c6f920df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42472423b5a127a0acd3f753dcc75a445d997be2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/9303370cb7e176e78ffa6d034fe63ce2c0abbf0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef0d54d0ed38560e12a7f2a964339692e64a0555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/b723e62457cc6b47637e99bd83a6fcbc1260cabd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ee407326871ace309ce4c0b2d9ed55d9bb155c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/ed8f29ec42735eaa5359855875f54c50b4cfa430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d4bebb95f037e05007a3bfd850e9a92b33406bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/b45d36373823c6cf83406a70138494d99f146aad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_130d794654a8d70e034d52d0f3e2343e15f8ccab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de2f21b4572c788382460090359d73d8b05af577/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e364f812ec72bf82d0a67dbd7e003208e066842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0b8b1e5490db98fd21830ff29075d684035a36c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/f92a050f11fb9631f23c5525a8e3c2aa8629625f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_959af2582db99f858603e90e6d701539cb1e97e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/a1c7e36851f32322fc71982c0a9518d79fd37326/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65c63f0881811b38ddb96c0de916a561932287bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/9fd733c16176cb65d755323d10ab268da33ae569/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88979ffff07986bcb2d4c62d36bb2b4af5e83229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/f18c97a9d06ea1f5308c981892470c072181c833/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc3e72697025d62f65aaa4a15033092212ed7978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d92c68a6fcabb848561dae568fc8bedbf33d600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b20dd7853ee4b1f28a8fe00e4dde56cee4c5791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ff4f588ae79e605b09871ef5c472b0498e1a63a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a39be9d96b53660de55d20c8429d6007f084491a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcdeed62754f6a3e5b0255ed5addfbd02385ab17">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b965c289ff46716177ac1d7194beecaf3cbdfe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/f620ba5f1974429741437593cd886dc21307d4b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b273a1ed3695f950f898238ebb8ec6b3e228b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/7eeac0f96b2710d7e09c53c07857935c67bb27f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c50b5babefdf860ef8affc88784d26d19960d69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a6ed70dede93b60d834141e628fd6d05c177f81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/bff15fb536f08154b62352f75ccce725b7a3d9e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de49329fcdef88f01a7f994a543029c9c2a2bf60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/053f3e1ba8c88ba3c8f35f13cb24eb3feddcbc46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c7640d7b3ade3d37e468965a5418673842cc6d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc18c740502b35825da60db60fda2d955170b6e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcf0efb2119252c047e54b9b7ff691914a310b72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/0e7a3a9c301ac50468e1543d2ca3df888367fcf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c88e3e3e0216c2fa5f55ea73db1460d651d40754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/aa7b4809be6afd3576597ccb16628414236ceaa9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f60c0d14174e1c70a0da3553d6d08ca489ca038f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/db7fb9aa983289d6b92f3e6474e7dffeffeb9395/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d3d06f09616136904f303cd1e7c002615b0aee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/807fcc1c4836d8ec7d2a169584dd45549474a134/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_905d4f9719e0386f72a6e0e715fa086fb242401c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/f18c97a9d06ea1f5308c981892470c072181c833/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6e5c88c4121505201e0d709b21f6599df81da98d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/34acd701bac42a8c12903e045c5821981683a5ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdbd332f528e423bb67f100de9dfcd9151db7d45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_731341f10117b6b59f37b4e3d0401399d9f86086/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f657fe930dc1bf5b36f6d89f4332788edb69a6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/1e15ac14ed5f2b922fea6928f5acdf2153109ea5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4e4f5c8c6c2f6257a913d6e2599e09f2a25f48a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/4ac39bcd3d0b39bd91e479a975d0c798aa9c281c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0beb3106d530156cd3b943d8b52665c74b74ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/03978f8bee4c21f95cc12eb74b2888a3d373e418/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b8348aeeffe7f8aeb32ee4fff672fbdf6454a7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/84d63a70925423a456644ac259f9768e62f9cbcb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7059d732db21cd73b7da9ff93a75026d44f88274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/f44890f71715bf7bd0e0ef1a6844772d31fb8a13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35b4959bdabea968b16ba197c59a19787565012d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/1630f8224700755d59a109b6734dee9e259a22c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb968efe17dbf255378320d1b541823fb7b3bbba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/3f675459fdd85e7435a26eb69a5edaede3ba05ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_433cf3c4c41f3d9f5fa2dde1f3c9637d5428ca51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/6945db28fd523c5f8920c502340d9fe0d7b2c962/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fe4f6ef9603d6781c40c4ff6eeea2837519b98c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/dd526b05907ccf0bd01cee663162154c0a02a21a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1af6882d8bdb16016c1ac8b5b40514cde8bae551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca27be9216d751e3f2e2656040e11970f933e90d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/a8545c0de76980c75fdd6393cb06964f2dd04688/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b78096f727c30512e8107981c492df7cc92732b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_226cefc67ac670cf4afaf1eba29868537abbb82b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b951d3702bd0094ade0a85bc0662482e4a61480a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e82c53f0eab9296f4f01e40d299643173fedde6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78e80057447c5829d640942975e8788449c62ebb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/560cffefaad0d562abd73be3d71a591eb1cb0536/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1ebefa700a621fc1a8524ef08a0bebe4992ac80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/ab811bfec79a9acd288826dabb62f6174a919efe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca883fb91953594e50ecd81e5fffe04fc97dc8b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/a50fe021d945ef5d7f0646a54f78b79733a20a74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56bd39256f8238d704ea0bda473c3dac2217c21d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93b6c2f4ba8d21083b8e3604abf2b94c1c3194e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/edb087133cd795a073b9d7badd3b01131758a60a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f75c67fb84992e76e2b19fc4dcebfb483e276e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a315d73b3025260804c9aed9fb77e81ea433e72/classes.dex" />
+    </item>
+
+</items>

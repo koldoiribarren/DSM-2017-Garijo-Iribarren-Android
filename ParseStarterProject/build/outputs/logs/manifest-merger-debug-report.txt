@@ -1,0 +1,461 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-44:12
+	package
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/koldo/.android/build-cache/a8545c0de76980c75fdd6393cb06964f2dd04688/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:22-69
+application
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/koldo/.android/build-cache/05afd2b90099b14c44b19fc70ce4481c73c53714/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/koldo/.android/build-cache/0e7a3a9c301ac50468e1543d2ca3df888367fcf2/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/koldo/.android/build-cache/807fcc1c4836d8ec7d2a169584dd45549474a134/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/koldo/.android/build-cache/84d63a70925423a456644ac259f9768e62f9cbcb/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/koldo/.android/build-cache/db7fb9aa983289d6b92f3e6474e7dffeffeb9395/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/koldo/.android/build-cache/1e15ac14ed5f2b922fea6928f5acdf2153109ea5/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/koldo/.android/build-cache/bff15fb536f08154b62352f75ccce725b7a3d9e0/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/koldo/.android/build-cache/f620ba5f1974429741437593cd886dc21307d4b9/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/koldo/.android/build-cache/4ac39bcd3d0b39bd91e479a975d0c798aa9c281c/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/koldo/.android/build-cache/b45d36373823c6cf83406a70138494d99f146aad/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/koldo/.android/build-cache/a50fe021d945ef5d7f0646a54f78b79733a20a74/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koldo/.android/build-cache/053f3e1ba8c88ba3c8f35f13cb24eb3feddcbc46/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/koldo/.android/build-cache/ab811bfec79a9acd288826dabb62f6174a919efe/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/koldo/.android/build-cache/a8545c0de76980c75fdd6393cb06964f2dd04688/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/koldo/.android/build-cache/7eeac0f96b2710d7e09c53c07857935c67bb27f3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/koldo/.android/build-cache/f44890f71715bf7bd0e0ef1a6844772d31fb8a13/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/koldo/.android/build-cache/03978f8bee4c21f95cc12eb74b2888a3d373e418/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/koldo/.android/build-cache/6945db28fd523c5f8920c502340d9fe0d7b2c962/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/koldo/.android/build-cache/b723e62457cc6b47637e99bd83a6fcbc1260cabd/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/koldo/.android/build-cache/426e12a47a840c6d28d47278e0131f793a10d6d5/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koldo/.android/build-cache/1630f8224700755d59a109b6734dee9e259a22c9/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koldo/.android/build-cache/09ff173764238e94fbcb89460ba1cb2574c7dc48/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:23.4.0] /Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koldo/.android/build-cache/ed8f29ec42735eaa5359855875f54c50b4cfa430/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koldo/.android/build-cache/adabc73a8694cbf694069c7baee9de5ae7ff4716/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koldo/.android/build-cache/f18c97a9d06ea1f5308c981892470c072181c833/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/koldo/.android/build-cache/dd526b05907ccf0bd01cee663162154c0a02a21a/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:27-74
+activity#com.parse.starter.login
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:9-43
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:19-40
+activity#com.parse.starter.signup
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:38:19-41
+activity#com.parse.starter.profile
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:9-45
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:19-42
+activity#com.parse.starter.home
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:40:9-42
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:40:19-39
+activity#com.parse.starter.userList
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:19-43
+uses-sdk
+INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/koldo/.android/build-cache/05afd2b90099b14c44b19fc70ce4481c73c53714/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/koldo/.android/build-cache/9303370cb7e176e78ffa6d034fe63ce2c0abbf0d/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/koldo/.android/build-cache/9fd733c16176cb65d755323d10ab268da33ae569/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/koldo/.android/build-cache/0e7a3a9c301ac50468e1543d2ca3df888367fcf2/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/koldo/.android/build-cache/807fcc1c4836d8ec7d2a169584dd45549474a134/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/koldo/.android/build-cache/84d63a70925423a456644ac259f9768e62f9cbcb/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/koldo/.android/build-cache/db7fb9aa983289d6b92f3e6474e7dffeffeb9395/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/koldo/.android/build-cache/1e15ac14ed5f2b922fea6928f5acdf2153109ea5/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/koldo/.android/build-cache/bff15fb536f08154b62352f75ccce725b7a3d9e0/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/koldo/.android/build-cache/59a5155267be0515327647f9cafe5ebdb9522d8a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/koldo/.android/build-cache/3f675459fdd85e7435a26eb69a5edaede3ba05ed/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/koldo/.android/build-cache/edb087133cd795a073b9d7badd3b01131758a60a/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/koldo/.android/build-cache/34acd701bac42a8c12903e045c5821981683a5ef/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/koldo/.android/build-cache/a1c7e36851f32322fc71982c0a9518d79fd37326/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/koldo/.android/build-cache/f620ba5f1974429741437593cd886dc21307d4b9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/koldo/.android/build-cache/4ac39bcd3d0b39bd91e479a975d0c798aa9c281c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/koldo/.android/build-cache/b45d36373823c6cf83406a70138494d99f146aad/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/koldo/.android/build-cache/a50fe021d945ef5d7f0646a54f78b79733a20a74/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koldo/.android/build-cache/053f3e1ba8c88ba3c8f35f13cb24eb3feddcbc46/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/koldo/.android/build-cache/ab811bfec79a9acd288826dabb62f6174a919efe/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/koldo/.android/build-cache/a8545c0de76980c75fdd6393cb06964f2dd04688/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/koldo/.android/build-cache/7eeac0f96b2710d7e09c53c07857935c67bb27f3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/koldo/.android/build-cache/f44890f71715bf7bd0e0ef1a6844772d31fb8a13/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/koldo/.android/build-cache/03978f8bee4c21f95cc12eb74b2888a3d373e418/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/koldo/.android/build-cache/aa7b4809be6afd3576597ccb16628414236ceaa9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/koldo/.android/build-cache/6945db28fd523c5f8920c502340d9fe0d7b2c962/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/koldo/.android/build-cache/560cffefaad0d562abd73be3d71a591eb1cb0536/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/koldo/.android/build-cache/b723e62457cc6b47637e99bd83a6fcbc1260cabd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/koldo/.android/build-cache/426e12a47a840c6d28d47278e0131f793a10d6d5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koldo/.android/build-cache/1630f8224700755d59a109b6734dee9e259a22c9/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koldo/.android/build-cache/09ff173764238e94fbcb89460ba1cb2574c7dc48/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] /Users/koldo/.android/build-cache/4f29656d3ac764d02ca9299962f0b4d3e23607db/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:23.4.0] /Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/koldo/.android/build-cache/f92a050f11fb9631f23c5525a8e3c2aa8629625f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koldo/.android/build-cache/ed8f29ec42735eaa5359855875f54c50b4cfa430/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koldo/.android/build-cache/adabc73a8694cbf694069c7baee9de5ae7ff4716/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koldo/.android/build-cache/f18c97a9d06ea1f5308c981892470c072181c833/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/koldo/.android/build-cache/dd526b05907ccf0bd01cee663162154c0a02a21a/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/koldo/.android/build-cache/014546ecee0931a4cf81c4a5662b0ddf4035c270/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/koldo/.android/build-cache/af72530c630418a03096bb7d6eeee15020256aef/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koldo/.android/build-cache/e833b6877b03b337949511b26e335fb3b7890f33/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koldo/.android/build-cache/6b48e7736722ada348cf37bd17c8c8052b14afc9/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koldo/.android/build-cache/09ff173764238e94fbcb89460ba1cb2574c7dc48/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koldo/.android/build-cache/09ff173764238e94fbcb89460ba1cb2574c7dc48/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koldo/.android/build-cache/09ff173764238e94fbcb89460ba1cb2574c7dc48/output/AndroidManifest.xml:22:13-58

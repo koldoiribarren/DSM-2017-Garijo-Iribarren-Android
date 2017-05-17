@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

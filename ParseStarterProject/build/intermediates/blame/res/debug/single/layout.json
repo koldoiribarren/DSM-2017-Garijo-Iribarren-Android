@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_user_list.xml",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/koldo/.android/build-cache/dd18f6965efa067b3c0358ba84c2f6e997694342/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/koldo/.android/build-cache/a21f2bf124c506492cd5d8eeaaca64181f12b4ba/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/layout/notification_media_cancel_action.xml"
+    }
+]
