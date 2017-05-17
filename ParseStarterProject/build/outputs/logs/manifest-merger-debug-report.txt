@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-46:12
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
 	package
 		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
@@ -13,57 +13,8 @@ ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Projec
 	android:versionCode
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:19:5-67
-MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:21:5-66
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/koldo/.android/build-cache/a8545c0de76980c75fdd6393cb06964f2dd04688/output/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:20:5-79
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:20:5-78
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
-uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-71
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:22-68
-uses-permission#android.permission.READ_PROFILE
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:5-71
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:22-68
-uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:5-72
-	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:22-69
 uses-sdk
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:5-53
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-44
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/koldo/.android/build-cache/05afd2b90099b14c44b19fc70ce4481c73c53714/output/AndroidManifest.xml:4:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/koldo/.android/build-cache/9303370cb7e176e78ffa6d034fe63ce2c0abbf0d/output/AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:23:5-42
@@ -128,11 +79,68 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kold
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:15-41
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:15-41
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/koldo/.android/build-cache/093f7cdcd67db0117fc1cb0df07b4a20265c4e2c/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/koldo/.android/build-cache/868bd864dbe2c6f53ec5475f405759e460979ccb/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/koldo/.android/build-cache/a3d4bcd534b9660cb8caa37247d5a723186d2744/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/koldo/.android/build-cache/4c00ecdb06f4326e421b1557c17322f7bd63eee5/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/koldo/.android/build-cache/a8545c0de76980c75fdd6393cb06964f2dd04688/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/02f34ab5c9480f9b7871fd0ccdb9da13c5fb8fb0/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/koldo/.android/build-cache/3bc67cb15574265e99c367a972109ea14c585f8e/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/koldo/.android/build-cache/f7e48c18f44ca07515cf6e6fe492da7e1ce76e5f/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/koldo/.android/build-cache/bfe13536c077ae0286d94df49cdacd46f9fadb9c/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/koldo/.android/build-cache/cee9844b3122d8f24417a0e476ada1a27e368c14/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koldo/.android/build-cache/6e257e65d1d3b429176e811404d2cd7187473c02/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:5-72
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:22-72
 application
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:5-44:19
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:5-48:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/koldo/.android/build-cache/05afd2b90099b14c44b19fc70ce4481c73c53714/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:27:5-20
@@ -181,51 +189,55 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koldo/.a
 MERGED from [com.android.support:support-v4:23.4.0] /Users/koldo/.android/build-cache/f18c97a9d06ea1f5308c981892470c072181c833/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/koldo/.android/build-cache/dd526b05907ccf0bd01cee663162154c0a02a21a/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:9-41
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:9-41
 	android:allowBackup
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:9-35
 	android:icon
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:9-43
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:9-43
 	android:theme
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:9-40
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-40
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:9-43
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:9-43
 activity#com.parse.starter.MainActivity
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:9-38:20
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-41:20
 	android:label
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:13-45
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:35:13-45
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:13-41
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:13-37:29
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:17-69
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:36:17-77
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:36:27-74
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:27-74
 activity#com.parse.starter.login
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:9-43
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:9-43
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:19-40
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:19-40
 activity#com.parse.starter.signup
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:40:9-44
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:9-44
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:40:19-41
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:19-41
 activity#com.parse.starter.profile
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:9-45
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:9-45
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:41:19-42
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:19-42
 activity#com.parse.starter.home
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:9-42
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:9-42
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:19-39
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:19-39
 activity#com.parse.starter.userList
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:9-55
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:9-46
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:19-43
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:19-43
+activity#com.parse.starter.load
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:9-51
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:19-39
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:26:9-29:64
 	android:configChanges

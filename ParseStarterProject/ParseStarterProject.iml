@@ -116,7 +116,6 @@
     <orderEntry type="library" exported="" name="play-services-wallet-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="parse-android-1.13.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-tagmanager-api-9.4.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="multidex-instrumentation-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="firebase-messaging-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-gcm-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="design-23.4.0" level="project" />
@@ -162,7 +161,7 @@
     <orderEntry type="library" exported="" name="firebase-crash-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-safetynet-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="mediarouter-v7-23.0.0" level="project" />
-    <orderEntry type="library" exported="" name="multidex-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="multidex-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-places-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="firebase-analytics-9.4.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-tagmanager-9.4.0" level="project" />

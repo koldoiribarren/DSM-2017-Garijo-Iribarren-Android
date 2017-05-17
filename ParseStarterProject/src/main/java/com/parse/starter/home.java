@@ -23,6 +23,8 @@ public class home extends AppCompatActivity {
         super.onOptionsItemSelected(item);
         switch (item.getItemId()){
             case R.id.uploadPicture:
+                Intent intentUpload = new Intent(getApplicationContext(), load.class);
+                startActivity(intentUpload);
                 Log.i("Menu Item Selected", "Upload Picture");
                 return true;
             case R.id.userList:

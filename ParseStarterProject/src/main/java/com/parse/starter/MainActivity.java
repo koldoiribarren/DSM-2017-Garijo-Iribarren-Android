@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
           TextView welcomeMSG = (TextView) findViewById(R.id.loadingText);
           welcomeMSG.setText(sentences[value]);
 
-          handler.postDelayed(run1,5000);
+          handler.postDelayed(run2,5000);
 
       }
   }
