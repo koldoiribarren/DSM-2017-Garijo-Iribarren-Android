@@ -32,16 +32,8 @@
         "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/color/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
         "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/koldo/.android/build-cache/dc7583e7fc5244f859f9d7ce592c019bcec32c1e/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",

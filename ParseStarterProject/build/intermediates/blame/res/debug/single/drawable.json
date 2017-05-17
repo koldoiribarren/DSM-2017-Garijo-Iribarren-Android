@@ -224,6 +224,10 @@
         "source": "/Users/koldo/.android/build-cache/b0eecf93c2cc12aa6ab218cd0f727d05b242cabe/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
     },
     {
+        "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable/loading.png",
+        "source": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/res/drawable/loading.png"
+    },
+    {
         "merged": "/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
         "source": "/Users/koldo/.android/build-cache/df1b20e37a034e72171e733645749e2dfae753e5/output/res/drawable/mr_ic_pause_dark.xml"
     },
