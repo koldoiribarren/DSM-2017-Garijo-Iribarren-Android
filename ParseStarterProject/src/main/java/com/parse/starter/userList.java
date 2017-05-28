@@ -45,7 +45,9 @@ public class userList extends AppCompatActivity {
             userObjects = query.find();
             if (userObjects.size()>0){
                 for (ParseUser object : userObjects){
-                    users.add(object.getString("username"));
+                    if(!object.getString("username").equals(ParseUser.getCurrentUser().getUsername())) {
+                        users.add(object.getString("username"));
+                    }
                 }
             }
         } catch(Exception e){
@@ -58,7 +60,9 @@ public class userList extends AppCompatActivity {
 
         usersListview.setOnItemClickListener(new AdapterView.OnItemClickListener(){
             public void onItemClick(AdapterView<?> parent, View view, int position, long id){
-                Toast.makeText(getApplicationContext(), "Hello " + users.get(position), Toast.LENGTH_SHORT).show();
+                Intent intentProfile = new Intent(getApplicationContext(), profile.class);
+                intentProfile.putExtra("username", users.get(position));
+                startActivity(intentProfile);
             }
         });
     }
@@ -81,6 +85,7 @@ public class userList extends AppCompatActivity {
                 return true;
             case R.id.profile:
                 Intent intentProfile = new Intent(getApplicationContext(), profile.class);
+                intentProfile.putExtra("username",ParseUser.getCurrentUser().getUsername());
                 startActivity(intentProfile);
                 Log.i("Menu Item Selected", "User Profile");
                 return true;

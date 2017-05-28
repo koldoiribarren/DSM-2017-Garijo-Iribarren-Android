@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-52:12
 	package
 		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml
@@ -140,7 +140,7 @@ ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Projec
 	android:name
 		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:22-72
 application
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:5-48:19
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:5-50:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/koldo/.android/build-cache/05afd2b90099b14c44b19fc70ce4481c73c53714/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/koldo/.android/build-cache/1638c3ab9f75ab0232b4daf10d06682e066c50cf/output/AndroidManifest.xml:27:5-20
@@ -199,45 +199,55 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kold
 	android:name
 		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:9-43
 activity#com.parse.starter.MainActivity
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-41:20
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-42:20
 	android:label
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:35:13-45
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:36:13-45
+	android:noHistory
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:35:13-37
 	android:name
 		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:34:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:36:13-40:29
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:17-69
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:37:25-66
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:17-77
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:39:27-74
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:40:27-74
 activity#com.parse.starter.login
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:9-43
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:9-68
+	android:noHistory
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:41-65
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:19-40
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:19-40
 activity#com.parse.starter.signup
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:9-44
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:9-69
+	android:noHistory
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:42-66
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:43:19-41
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:19-41
 activity#com.parse.starter.profile
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:9-45
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:9-45
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:44:19-42
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:19-42
 activity#com.parse.starter.home
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:9-42
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:9-42
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:19-39
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:19-39
 activity#com.parse.starter.userList
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:9-46
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:9-46
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:19-43
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:19-43
 activity#com.parse.starter.load
-ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:9-51
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:48:9-42
 	android:name
-		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:19-39
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:48:19-39
+activity#com.parse.starter.image
+ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:49:9-52
+	android:name
+		ADDED from /Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/src/main/AndroidManifest.xml:49:19-40
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/koldo/.android/build-cache/0b700963032ea559bdecfddbfb54873ea86e10e8/output/AndroidManifest.xml:26:9-29:64
 	android:configChanges

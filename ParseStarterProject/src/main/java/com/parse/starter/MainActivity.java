@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
               "Have fun",
               "I can see you... ;)",
               "And rolls, and rolls...",
-              "-Error: All files erased-",
+              "- Critical Error: All files erased -",
               "You should be doing something more productive"
       };
 

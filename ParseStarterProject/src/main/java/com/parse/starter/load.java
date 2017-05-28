@@ -55,8 +55,7 @@ public class load extends AppCompatActivity {
             Uri selectedImage = data.getData();
             try{
                 Bitmap bitmap = MediaStore.Images.Media.getBitmap(this.getContentResolver(), selectedImage);
-                //ImageView imageView = (ImageView) findViewById(R.id.imageView);
-                //imageView.setImageBitmap(bitmap);
+
 
                 ByteArrayOutputStream stream = new ByteArrayOutputStream();
                 bitmap.compress(Bitmap.CompressFormat.PNG, 100, stream);
@@ -66,6 +65,7 @@ public class load extends AppCompatActivity {
                 ParseObject object = new ParseObject("Image");
                 object.put("image", file);
                 object.put("username", ParseUser.getCurrentUser().getUsername());
+                object.add("likes",null);
 
                 object.saveInBackground(new SaveCallback(){
                     @Override

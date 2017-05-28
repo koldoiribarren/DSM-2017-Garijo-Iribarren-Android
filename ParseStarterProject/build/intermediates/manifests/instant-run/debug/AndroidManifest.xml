@@ -51,19 +51,25 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.parse.starter.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+            android:noHistory="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.parse.starter.login" />
-        <activity android:name="com.parse.starter.signup" />
+        <activity
+            android:name="com.parse.starter.login"
+            android:noHistory="true" />
+        <activity
+            android:name="com.parse.starter.signup"
+            android:noHistory="true" />
         <activity android:name="com.parse.starter.profile" />
         <activity android:name="com.parse.starter.home" />
         <activity android:name="com.parse.starter.userList" />
         <activity android:name="com.parse.starter.load" />
+        <activity android:name="com.parse.starter.image" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

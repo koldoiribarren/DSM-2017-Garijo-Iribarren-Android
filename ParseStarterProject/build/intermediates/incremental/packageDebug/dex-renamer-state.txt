@@ -1,4 +1,4 @@
-#Wed May 17 23:17:37 CEST 2017
+#Sun May 28 10:22:19 CEST 2017
 base.0=/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f657fe930dc1bf5b36f6d89f4332788edb69a6a3
 renamed.1=classes2.dex
 renamed.0=classes.dex

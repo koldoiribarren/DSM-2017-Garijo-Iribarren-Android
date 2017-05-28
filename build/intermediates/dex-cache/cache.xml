@@ -259,7 +259,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="52a2e610e3ba87551d444161e4a0961acc76911d">
+        sha1="c23ea4de05323d8decfcbecc46dc9f1ede4d581b">
         <dex dex="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b965c289ff46716177ac1d7194beecaf3cbdfe3/classes.dex" />
     </item>
     <item

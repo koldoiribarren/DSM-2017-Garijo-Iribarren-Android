@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495057778958"
+    timestamp="1495959738569"
     token="263646885050999481"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -23,13 +23,14 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1495056718273"
+        timestamp="1495958181821"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
@@ -38,6 +39,9 @@
             type="SPLIT" />
         <artifact
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -66,7 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495057634963"
+        timestamp="1495959665502"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -74,7 +78,11 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495057778958"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="1495959738569"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>
