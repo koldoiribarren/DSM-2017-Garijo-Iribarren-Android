@@ -172,7 +172,10 @@ public class profile extends AppCompatActivity {
                 Intent intentGoHome = new Intent(getApplicationContext(), home.class);
                 startActivity(intentGoHome);
                 Log.i("Menu Item Selected", "Home");
+                return true;
             case R.id.uploadPicture:
+                Intent intentUpload = new Intent(getApplicationContext(), load.class);
+                startActivity(intentUpload);
                 Log.i("Menu Item Selected", "Upload Picture");
                 return true;
             case R.id.userList:

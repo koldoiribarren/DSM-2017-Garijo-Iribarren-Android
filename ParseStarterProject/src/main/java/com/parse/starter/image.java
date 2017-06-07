@@ -33,16 +33,21 @@ import static com.google.android.gms.analytics.internal.zzy.e;
 
 public class image extends AppCompatActivity {
 
+    ImageView image;
+    TextView authorText;
+    String author;
+    String imageID;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_image);
 
-        ImageView image = (ImageView) findViewById(R.id.imageSelected);
-        TextView author = (TextView) findViewById(R.id.imageAuthor);
+        image = (ImageView) findViewById(R.id.imageSelected);
+        authorText = (TextView) findViewById(R.id.imageAuthor);
 
         Intent intent = getIntent();
-        String imageID = intent.getStringExtra("imageID");
+        imageID = intent.getStringExtra("imageID");
 
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Image");
         query.include("image").whereEqualTo("objectId",imageID);
@@ -59,7 +64,9 @@ public class image extends AppCompatActivity {
                 Bitmap bitmap = BitmapFactory.decodeByteArray(imageData, 0, imageData.length);
                 image.setImageBitmap(bitmap);
 
-                author.setText("Image by "+ imageObjects.get(0).getString("username"));
+                author = imageObjects.get(0).getString("username");
+                authorText.setText("Image by "+author);
+
             }
 
         } catch(Exception e){
@@ -71,7 +78,11 @@ public class image extends AppCompatActivity {
 
     public boolean onCreateOptionsMenu(Menu menu){
         MenuInflater menuInflater = getMenuInflater();
-        menuInflater.inflate(R.menu.profile_menu, menu);
+        if (author.equals(ParseUser.getCurrentUser().getUsername())){
+            menuInflater.inflate(R.menu.image_menu, menu);
+        } else {
+            menuInflater.inflate(R.menu.profile_menu, menu);
+        }
         return super.onCreateOptionsMenu(menu);
     }
 
@@ -82,7 +93,10 @@ public class image extends AppCompatActivity {
                 Intent intentGoHome = new Intent(getApplicationContext(), home.class);
                 startActivity(intentGoHome);
                 Log.i("Menu Item Selected", "Home");
+                return true;
             case R.id.uploadPicture:
+                Intent intentUpload = new Intent(getApplicationContext(), load.class);
+                startActivity(intentUpload);
                 Log.i("Menu Item Selected", "Upload Picture");
                 return true;
             case R.id.userList:
@@ -97,8 +111,33 @@ public class image extends AppCompatActivity {
                 startActivity(intentLogIn);
                 Log.i("Menu Item Selected", "Log Out");
                 return true;
+            case R.id.deletePicture:
+                deletePic();
+                intentGoHome = new Intent(getApplicationContext(), home.class);
+                startActivity(intentGoHome);
+                Log.i("Menu Item Selected", "Home");
+                return true;
             default:
                 return false;
+        }
+    }
+
+    public void deletePic(){
+        ParseQuery<ParseObject> query = ParseQuery.getQuery("Image");
+        query.include("image").whereEqualTo("objectId",imageID);
+
+        List<ParseObject> imageObjects = null;
+
+        try{
+            imageObjects = query.find();
+
+            if (imageObjects.size() == 1) {
+                imageObjects.get(0).delete();
+                Toast.makeText(this, "Image deleted", Toast.LENGTH_SHORT).show();
+            }
+
+        } catch(Exception e){
+            Log.i("Error in background", e.toString());
         }
     }
 

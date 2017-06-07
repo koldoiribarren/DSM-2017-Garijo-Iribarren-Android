@@ -37,7 +37,7 @@ public class userList extends AppCompatActivity {
 
         ParseQuery<ParseUser> query = ParseUser.getQuery();
         query.include("username");
-        query.orderByDescending("username");
+        query.orderByAscending("username");
 
         List<ParseUser> userObjects = null;
 
@@ -80,7 +80,10 @@ public class userList extends AppCompatActivity {
                 Intent intentGoHome = new Intent(getApplicationContext(), home.class);
                 startActivity(intentGoHome);
                 Log.i("Menu Item Selected", "Home");
+                return true;
             case R.id.uploadPicture:
+                Intent intentUpload = new Intent(getApplicationContext(), load.class);
+                startActivity(intentUpload);
                 Log.i("Menu Item Selected", "Upload Picture");
                 return true;
             case R.id.profile:
