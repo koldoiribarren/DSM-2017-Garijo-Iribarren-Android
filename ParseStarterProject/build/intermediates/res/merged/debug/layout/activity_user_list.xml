@@ -37,7 +37,6 @@
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
         android:backgroundTintMode="add"
-        android:foregroundTint="@color/wallet_bright_foreground_holo_dark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.52"
         app:layout_constraintLeft_toLeftOf="parent"

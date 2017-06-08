@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 08 01:48:03 CEST 2017
+#Thu Jun 08 02:21:10 CEST 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
 14.set=ANDROID_RESOURCE

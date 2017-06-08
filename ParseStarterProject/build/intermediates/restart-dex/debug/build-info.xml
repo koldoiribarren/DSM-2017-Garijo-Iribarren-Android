@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1496879282329"
+    timestamp="1496884472347"
     token="263646885050999481"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,10 +22,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -79,19 +75,28 @@
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1496879282329"
+        timestamp="1496881268992"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1496884196480"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/koldo/Documents/AndroidStudioProjects/Parse-Server-Base-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1496884472347"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -37,6 +37,9 @@ public class image extends AppCompatActivity {
     TextView authorText;
     String author;
     String imageID;
+    TextView likes;
+    ImageButton like;
+    ImageButton dislike;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +48,9 @@ public class image extends AppCompatActivity {
 
         image = (ImageView) findViewById(R.id.imageSelected);
         authorText = (TextView) findViewById(R.id.imageAuthor);
+        likes = (TextView) findViewById(R.id.likesNumber);
+        like = (ImageButton) findViewById(R.id.likeOn);
+        dislike = (ImageButton) findViewById(R.id.likeOff);
 
         Intent intent = getIntent();
         imageID = intent.getStringExtra("imageID");
@@ -73,6 +79,7 @@ public class image extends AppCompatActivity {
             Log.i("Error in background", e.toString());
         }
 
+        checkLikes();
         loadComments();
     }
 
@@ -142,14 +149,6 @@ public class image extends AppCompatActivity {
     }
 
     public void addLike(View view){
-        ImageButton like = (ImageButton) findViewById(R.id.likeOn);
-        ImageButton dislike = (ImageButton) findViewById(R.id.likeOff);
-
-        like.setVisibility(View.VISIBLE);
-        dislike.setVisibility(View.INVISIBLE);
-
-        /*Intent intent = getIntent();
-        String imageID = intent.getStringExtra("imageID");
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Image");
         query.include("image").whereEqualTo("objectId",imageID);
 
@@ -158,25 +157,83 @@ public class image extends AppCompatActivity {
         try{
             imageObjects = query.find();
 
-            if (imageObjects.size() == 1) {
+            imageObjects.get(0).add("likes",ParseUser.getCurrentUser().getUsername());
+            imageObjects.get(0).save();
 
-                imageObjects.get(0).add("likes",ParseUser.getCurrentUser().getUsername());
-                imageObjects.get(0).save();
-            }
+        } catch(Exception e){
+            Log.i("Error in background", e.toString());
+        }
+
+        checkLikes();
+    }
+
+    public void removeLike(View view){
+        List likesList = new ArrayList<String>();
+
+        ParseQuery<ParseObject> query = ParseQuery.getQuery("Image");
+        query.include("image").whereEqualTo("objectId",imageID);
+
+        List<ParseObject> imageObjects = null;
+
+        try{
+            imageObjects = query.find();
+
+            likesList = imageObjects.get(0).getList("likes");
+            imageObjects.get(0).remove("likes");
+            imageObjects.get(0).save();
 
 
         } catch(Exception e){
             Log.i("Error in background", e.toString());
-        }*/
+        }
+
+        for (int i = 0; i < likesList.size(); i++){
+            if (likesList.get(i).equals(ParseUser.getCurrentUser().getUsername())){
+                likesList.remove(i);
+                i--;
+            } else {
+                try{
+                    imageObjects = query.find();
+
+                    imageObjects.get(0).add("likes",likesList.get(i));
+                    imageObjects.get(0).save();
+
+                } catch(Exception e){
+                    Log.i("Error in background", e.toString());
+                }
+            }
+        }
+
+        checkLikes();
     }
 
-    public void removeLike(View view){
-        ImageButton like = (ImageButton) findViewById(R.id.likeOn);
-        ImageButton dislike = (ImageButton) findViewById(R.id.likeOff);
+    public void checkLikes(){
+        List likesList = new ArrayList<String>();
 
-        like.setVisibility(View.INVISIBLE);
-        dislike.setVisibility(View.VISIBLE);
+        ParseQuery<ParseObject> query = ParseQuery.getQuery("Image");
+        query.include("image").whereEqualTo("objectId",imageID);
 
+        List<ParseObject> imageObjects = null;
+
+        try{
+            imageObjects = query.find();
+            likesList = imageObjects.get(0).getList("likes");
+
+        } catch(Exception e){
+            Log.i("Error in background", e.toString());
+        }
+
+        likes.setText(String.valueOf(likesList.size()));
+
+        for (int i = 0; i < likesList.size(); i++){
+            if (likesList.get(i).equals(ParseUser.getCurrentUser().getUsername())){
+                like.setVisibility(View.VISIBLE);
+                dislike.setVisibility(View.INVISIBLE);
+            } else {
+                like.setVisibility(View.INVISIBLE);
+                dislike.setVisibility(View.VISIBLE);
+            }
+        }
     }
 
     public void writeMSG(View view){
@@ -211,18 +268,6 @@ public class image extends AppCompatActivity {
             } catch(Exception e){
                 Log.i("Error in background", e.toString());
             }
-
-            /*object.saveInBackground(new SaveCallback() {
-                @Override
-                public void done(com.parse.ParseException e) {
-                    if (e == null) {
-                        Toast.makeText(image.this, "Comment Sent!", Toast.LENGTH_SHORT).show();
-                    } else {
-                        Toast.makeText(image.this, "Comment could not be saved. Please try again later :(", Toast.LENGTH_SHORT).show();
-                        Toast.makeText(image.this, e.toString(), Toast.LENGTH_SHORT).show();
-                    }
-                }
-            });*/
 
             commentList.setVisibility(View.VISIBLE);
             commentText.setVisibility(View.INVISIBLE);
