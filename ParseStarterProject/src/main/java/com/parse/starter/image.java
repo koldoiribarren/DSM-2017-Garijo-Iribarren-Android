@@ -223,7 +223,7 @@ public class image extends AppCompatActivity {
             Log.i("Error in background", e.toString());
         }
 
-        likes.setText(String.valueOf(likesList.size()));
+        likes.setText(String.valueOf(likesList.size()-1));
 
         for (int i = 0; i < likesList.size(); i++){
             if (likesList.get(i).equals(ParseUser.getCurrentUser().getUsername())){
